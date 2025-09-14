@@ -1,1 +1,5 @@
-hello it sumit yadav 
+fit command are 
+add 
+clone 
+push 
+commit
